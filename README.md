@@ -1,7 +1,5 @@
 ### Hi there 👋, i am Stefan 
 #### "Codefather" at ap MArketing in Germany
-!["Codefather" at ap MArketing in Germany](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 I developed my first website more than 20 years ago. As a career changer, I have been working professionally in this area for over 10 years.
 
